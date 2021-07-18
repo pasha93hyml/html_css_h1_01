@@ -52,7 +52,7 @@ a {
 
 .nav-item:hover {
 	color: #2196F3;
-	cursor: url(./imgs/pointer.svg);
+	cursor: pointer;
 }
 
 .nav-block > a:first-child {
@@ -91,7 +91,7 @@ a {
 
 	background-color: #2196F3;
 
-	border: 1px solid #2196F3;
+	border: 1px solid;
 	border-radius: 4px;
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 
